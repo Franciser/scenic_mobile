@@ -60,6 +60,7 @@ class Home extends React.Component{
             method: 'POST',
             headers: new Headers({
                 'Accept': 'application/json',
+                'Content-Type': 'application/json',
             }),
             body: data
         })
