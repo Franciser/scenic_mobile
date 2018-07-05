@@ -65,7 +65,7 @@ class Home extends React.Component{
         })
             .then(res => res.json())
             .then(data => {
-                    
+                    console.log(data)
                     this.setState({
                         scenicArr: data.showapi_res_body.pagebean.contentlist,
                         // scenicDetail: data.showapi_res_body.pagebean.contentlist[0],
