@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.less"],"names":[],"mappings":"AAAA,cACE,WACA,YACA,wBAA0B","file":"static/css/main.1b2d0d9f.css","sourcesContent":[".wrap .header {\n  width: 100%;\n  height: 60px;\n  background-color: #242a37;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.less"],"sourceRoot":""}
