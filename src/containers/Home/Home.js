@@ -56,7 +56,7 @@ class Home extends React.Component{
         data.append("showapi_sign", "832c437e768549a49174d11d81951463");
         data.append("keyword", name);
         data.append("page", page);
-        fetch('http://route.showapi.com/268-1', {
+        fetch('https://route.showapi.com/268-1', {
             method: 'POST',
             headers: new Headers({
                 'Accept': 'application/json',
